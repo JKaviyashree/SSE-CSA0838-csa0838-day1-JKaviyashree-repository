@@ -1,4 +1,4 @@
-# << 3 >> 10.10.2022
+# Happy Number
 
 num=int(input("num : "))
 s=0
