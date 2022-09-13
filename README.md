@@ -11,7 +11,7 @@
 > Leap Year <
 > Bakery_Loaves <
 > Merge Two Sorted List <
-> Frequency string <
+> Modify Frequency string <
 > Multiplication Table <
 > Palindrome - Number<
 > Palindrome String <
