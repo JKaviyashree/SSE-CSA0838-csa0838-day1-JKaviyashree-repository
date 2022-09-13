@@ -7,11 +7,14 @@
 > Factorial <
 > Fibonacci Series using Recursion <
 > Fibonacci Series <
+> Get parenthesis <
 > Grade , Average <
 > Happy Number <
 > Isomorphic <
 > Leap Year <
+> Lexicographical sort < 
 > Bakery_Loaves <
+> Maximum profit <
 > Merge Two Sorted List <
 > Modify Frequency string <
 > Multiplication Table <
@@ -19,12 +22,15 @@
 > Palindrome - Number<
 > Palindrome String <
 > Party <
-> remove common words in string <
+> Phone <
+> Quadratic Equation <
+> remove commonwords in string <
 > Seasons <
 > Simple Calculator <
 > Simple Interest <
 > Sort words in alphabetical order in string <
 > Stairs <
+> String pattern match <
 > Sum of n Numbers <
 > Sum square of odd and even numbers <
 > Vowel count in string <
