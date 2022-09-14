@@ -36,6 +36,7 @@
 > Seasons <
 > Simple Calculator <
 > Simple Interest <
+> smaller number than current number <
 > Sort words in alphabetical order in string <
 > Stairs <
 > String pattern match <
