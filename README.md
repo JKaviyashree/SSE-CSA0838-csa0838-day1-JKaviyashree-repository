@@ -36,16 +36,19 @@
 34. Quadratic Equation <
 35. remove commonwords in string <
 36. remove occurances of character in string <
-37. Seasons <
-38. Simple Calculator <
-39. Simple Interest <
-40. smaller number than current number <
-41. Sort words in alphabetical order in string <
-42. Stairs <
-43. String pattern match <
-44. Student User <
-45. Sum of n Numbers <
-46. Sum square of odd and even numbers <
-47. Vowel count in string <
-48. water Height <
-49. Word character Count <
+37. Roman to Integer
+38. Seasons <
+39. Simple Calculator <
+40. Simple Interest <
+41. smaller number than current number <
+42. Sort words in alphabetical order in string <
+43. Stairs <
+44. String Palindrome <
+45. String pattern match <
+46. String Scramble <
+47. Student User <
+48. Sum of n Numbers <
+49. Sum square of odd and even numbers <
+50. Vowel count in string <
+51. water Height <
+52. Word character Count <
