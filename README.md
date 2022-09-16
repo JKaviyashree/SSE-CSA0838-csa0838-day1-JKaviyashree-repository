@@ -7,7 +7,7 @@
 5. Array Good Pair <
 6. Binomial coefficient triangle <
 7. Celsius to Fahrenheit <
-8. Chess Board
+8. Chess Board <
 9. Combination <
 10. Conver two words <
 11. Factorial using Recursion <
@@ -19,12 +19,12 @@
 17. Grade , Average <
 18. Happy Number <
 19. Isomorphic <
-20. K repeating character
+20. K repeating character <
 21. Leap Year <
 22. Least num perfect square <
 23. Lexicographical sort < 
 24. Bakery_Loaves <
-25. Max element index in array
+25. Max element index in array <
 26. Max Steps by element - Jump <
 27. max sub string <
 28. Maximum profit <
